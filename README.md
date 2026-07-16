@@ -113,35 +113,14 @@ The following analyses were performed:
 
 ---
 
-## 📁 Project Structure
 
-```
-Apple-Product-Price-Analysis/
-│
-├── Data/
-│   └── Apple_Product_Dataset.csv
-│
-├── Notebook/
-│   └── Apple_Product_Price_Analysis.ipynb
-│
-├── Images/
-│   ├── heatmap.png
-│   ├── scatterplot.png
-│   ├── boxplot.png
-│   ├── barplot.png
-│   └── histogram.png
-│
-├── README.md
-│
-└── requirements.txt
-```
 
 ---
 
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/Apple-Product-Price-Analysis.git
+git clone https://github.com/Ritesh-delta/Apple-Product-Price-Analysis.git
 
 cd Apple-Product-Price-Analysis
 
@@ -160,9 +139,3 @@ This project demonstrates how Exploratory Data Analysis (EDA) can be used to und
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourusername
